@@ -1,0 +1,26 @@
+body{
+    background-color: bisque;
+}
+
+main{
+    margin: 0 auto;
+    text-align: center;
+}
+
+h2, p, ul{
+    text-align: left;
+}
+
+div{
+    width: 400px;
+    height: 120px;
+    background-color: darkgray;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+img{
+    width: 100px;
+    height: 50px;
+    float: left;
+}
